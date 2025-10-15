@@ -116,7 +116,9 @@ Publish the website in the given URL.
 ```
 # SERVER SIDE PROCESSING:
 
-![alt text](<Screenshot 2025-10-08 210010-1.png>)
+<img width="1920" height="1080" alt="Screenshot (26)" src="https://github.com/user-attachments/assets/7d8b04f4-783b-410a-9f28-7b522ec30682" />
+
+
 # HOMEPAGE:
 # RESULT:
 The program for performing server side processing is completed successfully.
